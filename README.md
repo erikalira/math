@@ -6,7 +6,7 @@ add latex formula to markdown on github:
 <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 ```
 
-demostration:
+demonstration:
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 
@@ -26,6 +26,6 @@ or
 \end{aligned}
 ```
 
-view demostration:
+view demonstration:
 
 [Jupyter Notebook Math Formulas](MathJax.ipynb)
