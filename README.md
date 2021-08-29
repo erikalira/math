@@ -33,5 +33,5 @@ view demonstration:
 
 
 ## extension to convert image to latex
-
+gratuito por 1 mes:
 https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc
