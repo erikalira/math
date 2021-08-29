@@ -11,7 +11,7 @@ demonstration:
 <img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 
 
-## add formula on GitHub Jupyter notebook
+## add formula on GitHub using Jupyter notebook
 use jupyter notebook (.ipynb) and Markdown parser included in IPython is MathJax-aware
 
 ```
