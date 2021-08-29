@@ -29,3 +29,9 @@ or
 view demonstration:
 
 [Jupyter Notebook Math Formulas](MathJax.ipynb)
+
+
+
+## extension to convert image to latex
+
+https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc
